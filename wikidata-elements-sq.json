@@ -1,0 +1,2512 @@
+{
+  "head" : {
+    "vars" : [ "atomicNumber", "sqLabel", "enLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "hydrogen"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Hidrogjeni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "1"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "yttrium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "itriumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "39"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "polonium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Poloniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "84"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "helium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Heliumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "2"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "astatine"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Astati"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "85"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "lithium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "litiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "3"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "zirconium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "zirkoniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "40"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "niobium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Niobiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "41"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "beryllium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Beriliumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "4"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "molybdenum"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Molibdeni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "42"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "boron"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Bori"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "5"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "technetium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Teknetiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "43"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "carbon"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Karboni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "6"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ruthenium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Rutheniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "44"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "rhodium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Rhodiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "45"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "nitrogen"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Azoti"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "7"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "palladium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Palladiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "46"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "silver"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "argjendi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "47"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "oxygen"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "oksigjeni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "8"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cadmium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Kadmiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "48"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "indium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Indiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "fluorine"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "fluori"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "9"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tin"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Kallaj"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "50"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "neon"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Neoni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "10"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "uranium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "urani"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "92"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "antimony"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Antimoni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sodium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "natriumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "11"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tellurium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Teluri"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "52"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "plutonium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Plutoni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "94"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "magnesium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "magneziumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "12"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "iodine"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Jodi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "53"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "aluminium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "alumini"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "13"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "neptunium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Neptuni (element kimik)"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "93"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "xenon"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Ksenoni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "54"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "silicon"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Silici"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "14"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "caesium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Ceziumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "55"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "francium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Franciumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "87"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "protactinium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Protaktini"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "phosphorus"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "fosfori"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "15"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "barium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Bariumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "56"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "iron"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "hekuri"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "26"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "thorium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Toriumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "90"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "hafnium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Hafniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "72"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sulfur"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "sulfuri"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "16"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "actinium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "aktiniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "89"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "chlorine"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "klori"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "17"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tantalum"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Tantali"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "73"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "argon"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Argoni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "18"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "radium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Radiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "88"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "potassium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Kaliumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "19"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "radon"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "radoni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "86"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "calcium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Kalciumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "20"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ununennium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "119"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unbinilium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "120"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "rutherfordium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "104"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "rutherfordiumi"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "lead"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "plumbi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "82"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "dubnium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "dubniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "105"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "scandium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Skandiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "21"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "seaborgium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Seaborgiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "106"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "titanium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Titani"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "bohrium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "bohriumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "vanadium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Vanadiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "23"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "hassium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "hassiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "108"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "meitnerium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "meitneriumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "109"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "chromium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Kromi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "24"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "manganese"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Mangani"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "25"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "darmstadtium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "darmstadtiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "110"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "rhenium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Rheniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "75"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "roentgenium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Roentgeniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "111"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "copernicium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "coperniciumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "112"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cobalt"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Kobalti"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tungsten"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Tungsteni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "74"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "nihonium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "nihoniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "113"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "flerovium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "fleroviumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "114"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "nickel"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "nikeli"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "28"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "moscovium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "moskoviumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "115"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "osmium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Osmiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "76"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "livermorium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "livermoriumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "116"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "copper"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Bakri"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "29"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tennessine"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "tenesini"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "117"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "oganesson"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "oganesoni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "118"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cerium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Keriumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "58"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "zinc"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Zinku"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "30"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "praseodymium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Praseodimi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "59"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "neodymium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Neodimi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "60"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "gallium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Galiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "31"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "europium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Europi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "63"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "germanium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Germaniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "32"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unbiunium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "121"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "lanthanum"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Lantani"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "57"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "arsenic"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Arseniku"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "33"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "promethium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Prometiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "61"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "selenium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Seleni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "34"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "samarium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Samariumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "62"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "iridium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Iridiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "77"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "gadolinium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "gadolini"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "64"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "terbium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Terbiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "bromine"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Bromi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "35"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "dysprosium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Disprosiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "66"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "platinum"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Platina"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "78"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "holmium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Holmiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "67"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "erbium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Erbiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "68"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "krypton"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Kriptoni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "36"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "thulium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Tuliumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "69"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "rubidium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "rubidiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "37"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "gold"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "ari"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "79"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ytterbium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Yterbiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "70"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "lutetium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Lutetiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "71"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mercury"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "zhiva"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "80"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "americium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "americi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "95"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "thallium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Taliumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "81"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "curium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "curiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "96"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "strontium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "stronciumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "38"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "berkelium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Berkeliumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "97"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "bismuth"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Bismuti"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "83"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "californium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "kaliforniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "98"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "untriunium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "131"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "untribium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "132"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unbiennium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "129"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "einsteinium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "einsteiniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "99"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "untrinilium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "130"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unbipentium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "125"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unbiseptium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "127"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "fermium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "fermiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "100"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unbioctium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "128"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unbiquadium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "124"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unbitrium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "123"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mendelevium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Mendeleviumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "101"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "untriennium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "139"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "untrihexium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "136"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "untrioctium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "138"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "nobelium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Nobeliumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "102"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "untriseptium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "137"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unquadennium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "149"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unquadnilium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "140"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unpentbium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "152"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "lawrencium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Lawrenciumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "103"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unpentnilium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "150"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unpentunium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "151"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unquadhexium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "146"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unquadbium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "142"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unpenttrium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "153"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unbibium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "122"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unbihexium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "126"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unquadpentium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "145"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unquadquadium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "144"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unquadoctium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "148"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unquadseptium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "147"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unquadtrium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "143"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unquadunium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "141"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "untripentium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "135"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "untriquadium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "134"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "untritrium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "133"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unsepttrium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "173"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unseptbium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "172"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unhexoctium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "168"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unhexseptium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "167"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unhexpentium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "165"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unhexennium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "169"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unpentquadium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "154"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unpentpentium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "155"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unseptunium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "171"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unoctquadium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "184"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unhexquadium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "164"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unpenthexium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "156"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unpentseptium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "157"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unpentoctium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "158"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unhexnilium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "160"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unpentennium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "159"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unhexunium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "161"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unhexbium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "162"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unhexhexium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "166"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unhextrium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "163"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unseptnilium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "170"
+      }
+    } ]
+  }
+}

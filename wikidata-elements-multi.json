@@ -1,0 +1,4997 @@
+{
+  "head" : {
+    "vars" : [ "atomicNumber", "sqLabel", "deLabel", "frLabel", "ruLabel", "enLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "hydrogen"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "водород"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "hydrogène"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Wasserstoff"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Hidrogjeni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "1"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "yttrium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "иттрий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "yttrium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Yttrium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "itriumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "39"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "polonium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "полоний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "polonium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Polonium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Poloniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "84"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "helium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "гелий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "hélium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Helium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Heliumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "2"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "astatine"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "астат"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "astate"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Astat"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Astati"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "85"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "zirconium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "цирконий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "zirconium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Zirconium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "zirkoniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "40"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "lithium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "литий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "lithium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Lithium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "litiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "3"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "niobium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ниобий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "niobium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Niob"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Niobiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "41"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "molybdenum"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "молибден"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "molybdène"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Molybdän"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Molibdeni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "42"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "beryllium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "бериллий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "béryllium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Beryllium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Beriliumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "4"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "technetium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "технеций"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "technétium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Technetium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Teknetiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "43"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "boron"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "бор"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "bore"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Bor"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Bori"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "5"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ruthenium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "рутений"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "ruthénium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ruthenium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Rutheniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "44"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "carbon"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "углерод"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "carbone"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Kohlenstoff"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Karboni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "6"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "rhodium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "родий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "rhodium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Rhodium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Rhodiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "45"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "nitrogen"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "азот"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "azote"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Stickstoff"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Azoti"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "7"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "palladium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "палладий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "palladium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Palladium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Palladiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "46"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "silver"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "серебро"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "argent"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Silber"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "argjendi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "47"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "oxygen"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "кислород"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "oxygène"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Sauerstoff"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "oksigjeni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "8"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "fluorine"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "фтор"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "fluor"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Fluor"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "fluori"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "9"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cadmium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "кадмий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "cadmium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Cadmium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Kadmiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "48"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "neon"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "неон"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "néon"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Neon"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Neoni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "10"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "indium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "индий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "indium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Indium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Indiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "49"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sodium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "натрий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "sodium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Natrium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "natriumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "11"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tin"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "олово"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "étain"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Zinn"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Kallaj"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "50"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "magnesium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "магний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "magnésium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Magnesium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "magneziumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "12"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "aluminium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "алюминий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "aluminium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Aluminium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "alumini"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "13"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "uranium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "уран"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "uranium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Uran"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "urani"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "92"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "silicon"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "кремний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "silicium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Silicium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Silici"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "14"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "antimony"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "сурьма"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "antimoine"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Antimon"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Antimoni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "francium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "франций"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "francium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Francium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Franciumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "87"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tellurium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "теллур"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "tellure"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Tellur"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Teluri"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "52"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "plutonium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "плутоний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "plutonium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Plutonium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Plutoni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "94"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "phosphorus"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "фосфор"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "phosphore"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Phosphor"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "fosfori"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "15"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "iron"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "железо"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "fer"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Eisen"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "hekuri"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "26"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "iodine"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "иод"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "iode"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Iod"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Jodi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "53"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "neptunium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "нептуний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "neptunium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Neptunium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Neptuni (element kimik)"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "93"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sulfur"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "сера"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "soufre"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Schwefel"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "sulfuri"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "16"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "xenon"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ксенон"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "xénon"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Xenon"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Ksenoni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "54"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "chlorine"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "хлор"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chlore"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Chlor"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "klori"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "17"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "caesium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "цезий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "césium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Caesium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Ceziumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "55"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "argon"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "аргон"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "argon"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Argon"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Argoni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "18"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "protactinium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "протактиний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "protactinium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Protactinium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Protaktini"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "91"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "potassium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "калий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "potassium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Kalium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Kaliumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "19"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "barium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "барий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "baryum"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Barium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Bariumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "56"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "calcium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "кальций"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "calcium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Calcium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Kalciumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "20"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "thorium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "торий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "thorium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thorium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Toriumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "90"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "lead"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "свинец"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "plomb"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Blei"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "plumbi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "82"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "hafnium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "гафний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "hafnium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Hafnium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Hafniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "72"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "actinium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "актиний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "actinium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Actinium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "aktiniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "89"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "scandium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "скандий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "scandium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Scandium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Skandiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "21"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tantalum"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "тантал"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "tantale"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Tantal"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Tantali"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "73"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "titanium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "титан"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "titane"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Titan"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Titani"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "radium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "радий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "radium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Radium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Radiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "88"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "vanadium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ванадий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "vanadium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Vanadium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Vanadiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "23"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "radon"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "радон"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "radon"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Radon"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "radoni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "86"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "chromium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "хром"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "chrome"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Chrom"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Kromi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "24"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "manganese"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "марганец"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "manganèse"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mangan"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Mangani"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "25"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ununennium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унуненний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "ununennium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ununennium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "119"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unbinilium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унбинилий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unbinilium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unbinilium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "120"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "rutherfordium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "резерфордий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "rutherfordium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Rutherfordium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "104"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "rutherfordiumi"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "rhenium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "рений"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "rhénium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Rhenium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Rheniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "75"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "dubnium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "дубний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "dubnium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Dubnium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "dubniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "105"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "seaborgium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "сиборгий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "seaborgium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Seaborgium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Seaborgiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "106"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cobalt"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "кобальт"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "cobalt"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Cobalt"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Kobalti"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "27"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tungsten"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "вольфрам"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "tungstène"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Wolfram"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Tungsteni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "74"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "bohrium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "борий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "bohrium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Bohrium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "bohriumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "107"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "hassium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "хассий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "hassium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Hassium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "hassiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "108"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "nickel"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "никель"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "nickel"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Nickel"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "nikeli"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "28"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "meitnerium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "мейтнерий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "meitnérium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Meitnerium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "meitneriumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "109"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "osmium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "осмий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "osmium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Osmium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Osmiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "76"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "darmstadtium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "дармштадтий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "darmstadtium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Darmstadtium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "darmstadtiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "110"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "copper"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "медь"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "cuivre"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Kupfer"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Bakri"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "29"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "roentgenium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "рентгений"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "roentgenium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Roentgenium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Roentgeniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "111"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "copernicium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "коперниций"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "copernicium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Copernicium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "coperniciumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "112"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "zinc"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "цинк"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "zinc"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Zink"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Zinku"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "30"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "nihonium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "нихоний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "nihonium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Nihonium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "nihoniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "113"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "gallium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "галлий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "gallium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Gallium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Galiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "31"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "flerovium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "флеровий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "flérovium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Flerovium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "fleroviumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "114"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "germanium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "германий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "germanium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Germanium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Germaniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "32"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "moscovium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "московий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "moscovium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Moscovium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "moskoviumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "115"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "livermorium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ливерморий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "livermorium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Livermorium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "livermoriumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "116"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "arsenic"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "мышьяк"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "arsenic"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Arsen"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Arseniku"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "33"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tennessine"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "теннессин"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "tennesse"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Tenness"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "tenesini"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "117"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "selenium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "селен"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "sélénium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Selen"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Seleni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "34"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "oganesson"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "оганесон"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "oganesson"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Oganesson"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "oganesoni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "118"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "iridium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "иридий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "iridium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Iridium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Iridiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "77"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cerium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "церий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "cérium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Cer"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Keriumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "58"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "bromine"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "бром"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "brome"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Brom"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Bromi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "35"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "praseodymium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "празеодим"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "praséodyme"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Praseodym"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Praseodimi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "59"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "platinum"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "платина"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "platine"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Platin"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Platina"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "78"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "neodymium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "неодим"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "néodyme"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Neodym"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Neodimi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "60"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "europium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "европий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "europium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Europium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Europi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "63"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "krypton"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "криптон"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "krypton"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Krypton"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Kriptoni"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "36"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unbiunium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унбиуний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unbiunium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unbiunium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "121"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "rubidium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "рубидий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "rubidium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Rubidium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "rubidiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "37"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "lanthanum"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "лантан"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "lanthane"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Lanthan"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Lantani"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "57"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "gold"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "золото"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "or"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Gold"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "ari"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "79"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "promethium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "прометий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "prométhéum"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Promethium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Prometiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "61"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "samarium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "самарий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "samarium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Samarium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Samariumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "62"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mercury"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ртуть"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "mercure"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Quecksilber"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "zhiva"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "80"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "gadolinium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "гадолиний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "gadolinium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Gadolinium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "gadolini"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "64"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "terbium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "тербий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "terbium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Terbium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Terbiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "65"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "thallium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "таллий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "thallium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thallium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Taliumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "81"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "dysprosium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "диспрозий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "dysprosium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Dysprosium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Disprosiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "66"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "strontium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "стронций"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "strontium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Strontium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "stronciumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "38"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "holmium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "гольмий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "holmium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Holmium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Holmiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "67"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "bismuth"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "висмут"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "bismuth"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Bismut"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Bismuti"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "83"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "erbium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "эрбий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "erbium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Erbium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Erbiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "68"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "untriunium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унтриуний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "untriunium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Untriunium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "131"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "untribium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унтрибий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "untribium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Untribium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "132"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unbiennium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унбиенний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unbiennium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unbiennium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "129"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "thulium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "тулий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "thulium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Thulium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Tuliumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "69"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "untrinilium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унтринилий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "untrinilium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Untrinilium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "130"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unbipentium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унбипентий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unbipentium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unbipentium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "125"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unbiseptium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унбисептий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unbiseptium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unbiseptium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "127"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unbioctium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унбиоктий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unbioctium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unbioctium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "128"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unbiquadium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унбиквадий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unbiquadium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unbiquadium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "124"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unbitrium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унбитрий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unbitrium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unbitrium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "123"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "untriennium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унтриэнний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "untriennium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Untriennium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "139"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "untrihexium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унтригексий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "untrihexium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Untrihexium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "136"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "untrioctium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унтриоктий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "untrioctium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Untrioctium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "138"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "ytterbium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "иттербий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "ytterbium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Ytterbium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Yterbiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "70"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "untriseptium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унтрисептий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "untriseptium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Untriseptium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "137"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unquadennium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унквадэнний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unquadennium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unquadennium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "149"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unquadnilium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "ункваднилий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unquadnilium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unquadnilium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "140"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unpentbium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унпентбий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unpentbium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unpentbium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "152"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "lutetium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "лютеций"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "lutécium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Lutetium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Lutetiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "71"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unpentnilium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унпентнилий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unpentnilium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unpentnilium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "150"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unpentunium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унпентуний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unpentunium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unpentunium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "151"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unquadhexium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унквадгексий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unquadhexium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unquadhexium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "146"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unquadbium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унквадбий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unquadbium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unquadbium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "142"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unpenttrium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унпенттрий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unpenttrium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unpenttrium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "153"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unquadpentium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унквадпентий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unquadpentium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unquadpentium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "145"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unquadquadium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унквадквадий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unquadquadium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unquadquadium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "144"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unquadoctium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унквадоктий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unquadoctium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unquadoctium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "148"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unquadseptium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унквадсептий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unquadseptium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unquadseptium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "147"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unquadtrium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унквадтрий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unquadtrium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unquadtrium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "143"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "americium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "америций"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "américium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Americium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "americi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "95"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "curium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "кюрий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "curium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Curium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "curiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "96"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unquadunium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унквадуний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unquadunium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unquadunium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "141"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "untripentium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унтрипентий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "untripentium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Untripentium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "135"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "untriquadium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унтриквадий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "untriquadium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Untriquadium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "134"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "untritrium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унтритрий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "untritrium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Untritrium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "133"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unsepttrium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унсепттрий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unsepttrium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unsepttrium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "173"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unseptbium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унсептбий"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unseptbium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "172"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unhexoctium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унгексоктий"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unhexoctium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "168"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unhexseptium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унгекссептий"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unhexseptium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "167"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unhexpentium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унгекспентий"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unhexpentium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "165"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unhexennium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унгексенний"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unhexennium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "169"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unpentquadium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унпентквадий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unpentquadium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unpentquadium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "154"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unpentpentium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унпентпентий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unpentpentium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unpentpentium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "155"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unseptunium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unseptunium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "171"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unoctquadium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unoctquadium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "184"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "berkelium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "берклий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "berkélium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Berkelium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Berkeliumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "97"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unhexquadium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унгексквадий"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unhexquadium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "164"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unpenthexium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унпентгексий"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unpenthexium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "156"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unpentseptium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унпентсептий"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unpentseptium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "157"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unpentoctium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унпентоктий"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unpentoctium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "158"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unhexnilium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унгекснилий"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unhexnilium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "160"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unpentennium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унпентенний"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unpentennium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "159"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unhexunium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unhexunium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "161"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unhexbium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unhexbium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "162"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unhexhexium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unhexhexium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "166"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unhextrium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unhextrium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "163"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unseptnilium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unseptnilium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "170"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "californium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "калифорний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "californium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Californium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "kaliforniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "98"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "einsteinium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "эйнштейний"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "einsteinium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Einsteinium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "einsteiniumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "99"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "fermium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "фермий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "fermium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Fermium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "fermiumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "100"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mendelevium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "менделевий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "mendélévium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Mendelevium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Mendeleviumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "101"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "nobelium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "нобелий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "nobélium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Nobelium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Nobeliumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "102"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "lawrencium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "лоуренсий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "lawrencium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Lawrencium"
+      },
+      "sqLabel" : {
+        "xml:lang" : "sq",
+        "type" : "literal",
+        "value" : "Lawrenciumi"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "103"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unbibium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унбибий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unbibium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unbibium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "122"
+      }
+    }, {
+      "enLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "unbihexium"
+      },
+      "ruLabel" : {
+        "xml:lang" : "ru",
+        "type" : "literal",
+        "value" : "унбигексий"
+      },
+      "frLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "unbihexium"
+      },
+      "deLabel" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Unbihexium"
+      },
+      "atomicNumber" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "126"
+      }
+    } ]
+  }
+}
