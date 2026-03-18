@@ -47,7 +47,7 @@ window.addEventListener('unhandledrejection', (event) => {
 const i18n = {
   en: {
     eyebrow: 'Interactive Chemistry Atlas',
-    title: 'Halitaj Chemistry',
+    title: 'Sistemi Periodik',
     lede: 'Click any element to reveal its details. Filter, search, and explore with smooth, responsive interactions.',
     statElements: 'Elements',
     statCategories: 'Categories',
